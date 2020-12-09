@@ -1,0 +1,6 @@
+classes = 2
+train = F:\Projects\yolov3\yolov3-jws\data\train.txt
+valid = F:\Projects\yolov3\yolov3-jws\data\val.txt
+test = F:\Projects\yolov3\yolov3-jws\data\test.txt
+names = F:\Projects\yolov3\yolov3-jws\config\sldata.names
+backup = backup
